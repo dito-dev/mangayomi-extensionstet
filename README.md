@@ -3,6 +3,8 @@
 
 ```
 https://raw.githubusercontent.com/RandomUserInTheInternet/mangayomi-extensionstet/main/anime_index.json
+
+https://raw.githubusercontent.com/dito-dev/mangayomi-extensionstet/main/anime_index.json
 ```
 
 
